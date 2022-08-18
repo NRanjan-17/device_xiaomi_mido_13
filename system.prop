@@ -168,3 +168,6 @@ persist.hwc.enable_vds=1
 
 # Zygote Preforking
 persist.device_config.runtime_native.usap_pool_enabled=true
+
+# Bluetooth
+bluetooth.device.class_of_device=90,2,12
